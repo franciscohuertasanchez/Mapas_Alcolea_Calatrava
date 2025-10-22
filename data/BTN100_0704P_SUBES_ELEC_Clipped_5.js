@@ -1,1 +1,0 @@
-var json_BTN100_0704P_SUBES_ELEC_Clipped_5 = {"type":"FeatureCollection","name":"BTN100_0704P_SUBES_ELEC_Clipped_5","features":[{"type":"Feature","properties":{"ID":"1527","ID_BD":null,"ID_CODIGO":"0704P","ID_MOD":null,"FECHA_ALTA":"20110627000000"},"geometry":{"type":"Point","coordinates":[-4.10758105,39.020651129474494]}}]}
